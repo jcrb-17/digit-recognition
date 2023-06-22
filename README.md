@@ -1,5 +1,5 @@
 # digit-recognition
-Digit recognition
+Digit recognition using Machine Learning
 
 Left click to draw, right click to erase.
 
